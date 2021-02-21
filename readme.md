@@ -53,7 +53,7 @@ Here we are...
 1) Download and install python and pip:\
 [python](https://www.python.org/downloads/)\
 [pip](https://pip.pypa.io/en/stable/installing/)\
-*Note: **pip** is already installed if you are using Python 2 >=2.7.9 or Python 3 >=3.4*
+*Note: **pip** is already installed if you are using Python 2 >=2.7.9 or Python 3 >=3.4* from the [docs](https://pip.pypa.io/en/stable/installing/) 
 
 2) Install\
 `pipenv`: For windows would be: *$ pip install pipenv*
