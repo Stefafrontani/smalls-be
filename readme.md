@@ -2,8 +2,7 @@
 
 
 ## Main techs used:
-The techs used are:
-`django`: as the main tech to build the user interface
+`django`: as the main tech to build the rest api
 
 
 ## Description:
@@ -38,7 +37,7 @@ Every piece of source code writen is here. Except for some settings. *(i.e.: Mod
 - *manage.py*\
 File where every command is executed from. *(i.e.: py manage.py script)*
 
-- *Pipfile*\
+- *Pipfile*
 - *Pipfile.lock*\
 Both created while pipenv was started. They mantain the status of the virtual environment created for the project
 
@@ -68,6 +67,4 @@ Here we are...
 
 ## Running the server
 
-On the root of the project and after having started the virtual environment, run: *$py manage.py runserver*
-
-
+On the root of the project and after having started the virtual environment, run: *$py manage.py runserver* and visit *http://localhost:8000/posts/*
