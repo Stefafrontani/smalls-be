@@ -58,8 +58,8 @@ Here we are...
 2) Install\
 `pipenv`: For windows run *$ pip install pipenv*
 
-3) Initialize virtual environment with pipenv while in the root of the repo\
-*$ pipenv shell*
+3) Initialize virtual environment with pipenv\
+While in the root of the repo run *$ pipenv shell*
 
 4) Install the dependencies\
 *$ pipenv install* : Will install what is in the pipfiles
