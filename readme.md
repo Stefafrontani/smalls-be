@@ -7,7 +7,7 @@
 
 ## Description:
 The project works as an api, letting a web user:
-- save the posts he/she likes 
+- save the posts the user likes the most 
 - retrieve all posts saved
 - deleting a post saved previously 
 
@@ -20,14 +20,14 @@ The project works as an api, letting a web user:
   -- Pipfile\
   -- Pipfile.lock\
   -- readme.md\
-  -- requirements.txt\
+  -- requirements.txt
 
-- *./smalls-exercise*
+- *./smalls-exercise*\
 This is the where all the project-level settings live.
 Every app (i.e.: posts) should be connected to this main directory.
 If others apps are start being used, then, a folder `./apps` should be created to organize them 
 
-- *./posts*
+- *./posts*\
 The only domain the project required.
 Every piece of source code writen is here. Except for some settings. *(i.e.: Models, Serializers, Views, etc.)*
 
@@ -50,7 +50,7 @@ Here we are...
 
 ## Requirements and Installation:
 
-1) Download and install python and pip:
+1) Download and install python and pip:\
 [python](https://www.python.org/downloads/)\
 [pip](https://pip.pypa.io/en/stable/installing/)\
 *Note: **pip** is already installed if you are using Python 2 >=2.7.9 or Python 3 >=3.4*
