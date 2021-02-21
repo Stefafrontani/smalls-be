@@ -11,12 +11,12 @@ The project works as an api, letting a web user:
 ## Project structure:
   ./smalls-exercise\
   ./posts\
-  db.sqlite3\
-  manage.py\
-  Pipfile\
-  Pipfile.lock\
-  readme.md\
-  requirements.txt\
+  -- db.sqlite3\
+  -- manage.py\
+  -- Pipfile\
+  -- Pipfile.lock\
+  -- readme.md\
+  -- requirements.txt\
 
 - *./smalls-exercise*
 This is the where all the project-level settings live.
