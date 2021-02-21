@@ -51,8 +51,8 @@ Here we are...
 ## Requirements and Installation:
 
 1) Download and install python and pip:
-[python][https://www.python.org/downloads/]
-[pip][https://pip.pypa.io/en/stable/installing/]
+[python](https://www.python.org/downloads/)\
+[pip](https://pip.pypa.io/en/stable/installing/)\
 *Note: **pip** is already installed if you are using Python 2 >=2.7.9 or Python 3 >=3.4*
 
 2) Install pipenv
