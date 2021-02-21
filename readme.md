@@ -56,7 +56,7 @@ Here we are...
 *Note: **pip** is already installed if you are using Python 2 >=2.7.9 or Python 3 >=3.4* from the [docs](https://pip.pypa.io/en/stable/installing/) 
 
 2) Install\
-`pipenv`: For windows would be: *$ pip install pipenv*
+`pipenv`: For windows run *$ pip install pipenv*
 
 3) Initialize virtual environment with pipenv while in the root of the repo\
 *$ pipenv shell*
