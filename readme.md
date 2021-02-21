@@ -3,6 +3,7 @@
 
 ## Main techs used:
 `django`: as the main tech to build the rest api
+`sqlite3`: as the DB. django default
 
 
 ## Description:
