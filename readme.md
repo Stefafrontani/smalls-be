@@ -1,6 +1,11 @@
 # Smalls - The API guide
 
 
+## Main techs used:
+The techs used are:
+`django`: as the main tech to build the user interface
+
+
 ## Description:
 The project works as an api, letting a web user:
 - save the posts he/she likes 
