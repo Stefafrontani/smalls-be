@@ -2,11 +2,10 @@ from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
 from .models import Favs
 import json
-# Create your views here.
 
 from .serializer import FavSerializer
 
-from django.views.decorators.csrf import csrf_exempt# , csrf_protect
+from django.views.decorators.csrf import csrf_exempt
  
 @csrf_exempt
 def index(request):
